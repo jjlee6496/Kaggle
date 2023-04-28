@@ -5,3 +5,6 @@
 
 2. 비디오 게임 판매 데이터: https://www.kaggle.com/datasets/gregorut/videogamesales  
     - https://www.kaggle.com/code/snanilim/video-games-sales-analysis-and-visualization
+
+3. space titanic 데이터: https://www.kaggle.com/code/samuelcortinhas/spaceship-titanic-a-complete-guide  
+    - https://www.kaggle.com/competitions/spaceship-titanic/data
